@@ -1,4 +1,4 @@
-  # Hi, I'm Bora 👋
+ # Hi, I'm Bora 👋
 
 - 💻 Computer Engineering Student
 - 🌱 Learning the basics of software and programming
